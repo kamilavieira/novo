@@ -1,0 +1,14 @@
+Apredendo Python
+
+Um bom guia inicial é seguir os links do https://python.org.br/introducao/
+
+Um livro que muito bom ler é o https://ricardoduarte.github.io/python-para-desenvolvedores/
+ele é cheio de referencias ao guia do muchileiro das galaxias, é bem divertido fazer os exercícios
+
+Uma coisa muito importante é participar dos eventos locais como os pylestras em fortaleza.
+https://www.pylestras.org/
+
+
+exercícios -- https://leetcode.com/
+
+
